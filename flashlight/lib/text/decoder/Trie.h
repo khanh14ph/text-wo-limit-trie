@@ -16,7 +16,7 @@ namespace fl {
 namespace lib {
 namespace text {
 
-constexpr int kTrieMaxLabel = 20;
+constexpr int kTrieMaxLabel = 30;
 
 enum class SmearingMode {
   NONE = 0,
